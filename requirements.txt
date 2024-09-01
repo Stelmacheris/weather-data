@@ -1,0 +1,8 @@
+sqlalchemy
+pandas
+numpy
+pydantic
+python-dotenv
+psycopg2
+requests
+logging
